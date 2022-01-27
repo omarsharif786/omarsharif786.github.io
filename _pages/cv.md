@@ -7,26 +7,41 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science in Compiter Science and Engineering, American International University-Bangladesh, 2015
+* Master of Science in Compiter Science, American International University-Bangladesh, 2017
+* Master of Science, Computer Science, University of South Dakota, Vermillion, South Dakota 2020
+* Ph.D. in Computer Science,
+Wayne State University, Detroit, Michigan , 2020 - 2021
+* Ph.D. in Computer Science, 
+Old Dominion University, Norfolk, Virginia  2022-
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Graduate Teaching and Research Assistant  
+Department of Computer Science  
+Old Dominion University  
+Advisor : [Dr. Fenjiao Wang](https://fengjiaowang7.github.io/)  
+January 2022-
+  * Teaching Assistant of Introduction to Discrete Structure where works include preparing questions and helping with grading
+  * Research on Shape detection and Recognition of Colored Handwritten Digit.
+* Graduate Research and Teaching Assistant  
+Department of Computer Science  
+Wayne State University, Detroit, Michigan September 2020- August 2021
+  * Project on cancer classification on nuclei features from histopathological images
+  * Instructed data structure lab course
+  * Help student implement data structures such as binary tree, hash tables, stacks, queues etc.
+* Graduate Assistant  
+Department of Computer Science  
+University of South Dakota  
+August 2018- December 2019
+  * Worked with Parallax Activity Bot 360 (maze solving, parking)
+  * Worked with E-Z Robot named JD. Performed several tasks like face detection, speech recognition, Cognitive Vision
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
