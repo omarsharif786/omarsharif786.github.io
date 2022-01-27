@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,13 +15,21 @@ My primary research interest lies on Deep Learning with focus on Computer Vision
 
 ***Research Interests:*** Deep Learning, Computer VIsion, Natiral Language Processing 
 
-***Technical Skills***
+Education
+-----
+  * Ph.D. in Computer Science, [Old Dominion University](https://www.odu.edu/), 2022-  
+  *M.S. in Computer Science, [University of South Dakota](https://usd.edu), 2020
+  * M.S. in Compiter Science, [American International University-Bangladesh](https://www.aiub.edu), 2017
+  * BS. in Compiter Science and Engineering, [American International University-Bangladesh](https://www.aiub.edu), 2015
 
-**Language Proficiency:** Python, Java, C#, Weka, Matlab, C++
+
+Technical Skills  
+-----
+**Language Proficiency:** Python, Java, C#, Weka, Matlab, C++  
 **Techologies/API's:** Numpy, Sci-kit-learn, Pandas, Matplotlib, OpenCV, Tensorflow, Keras , Anaconda, Git, Microsoft Office, Windows, Ubuntu, shell scripting. 
 
 Teaching
-======
+------
 1. (Summer 2021) Introduction to Data Structures(Lab). 
 1. (Spring 2022) CS381 Introduction to Discrete Strutures.
 
