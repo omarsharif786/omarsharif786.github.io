@@ -4,13 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+I publish under my legal name, Omar Sharif. 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+2017
+----
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Khan, Reeshad, and Omar Sharif. "[A literature review on emotion recognition using various methods.](https://computerresearch.org/index.php/computer/article/view/1507)" Global Journal of Computer Science and Technology.

@@ -18,8 +18,6 @@ Wayne State University, Detroit, Michigan , 2020 - 2021
 * Ph.D. in Computer Science, 
 Old Dominion University, Norfolk, Virginia  2022-
 
-
-
 Work experience
 ======
 * Graduate Teaching and Research Assistant  
@@ -33,42 +31,36 @@ January 2022-
 Department of Computer Science  
 Wayne State University, Detroit, Michigan September 2020- August 2021
   * Project on cancer classification on nuclei features from histopathological images
-  * Instructed data structure lab course
-  * Help student implement data structures such as binary tree, hash tables, stacks, queues etc.
+  * Instructing CSC 2201 lab Course where students familiarize with implementing several data structures.  
 * Graduate Assistant  
 Department of Computer Science  
 University of South Dakota  
 August 2018- December 2019
   * Worked with Parallax Activity Bot 360 (maze solving, parking)
   * Worked with E-Z Robot named JD. Performed several tasks like face detection, speech recognition, Cognitive Vision
+  * Thesis on Feature Extraction and Matching to analyze lung symmetry for pulmonary abnormality detection
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Language Proficiency:** Python, Java, C#, Weka, Matlab, C++  
+**Techologies/API's:** Numpy, Sci-kit-learn, Pandas, Matplotlib, OpenCV, Tensorflow, Keras , Anaconda, Git, Microsoft Office, Windows, Ubuntu, shell scripting. 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+* Poster session  
+Understanding X-rays Using Key points  
+2020 Data Science Symposium
+* Short presentation  
+Deep Learning on Satellite Imaging: progress and scopes  
+2019 Idea Fest
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * (Summer 2021) Introduction to Data Structures(Lab). 
+ * (Spring 2022) CS381 Introduction to Discrete Strutures.
   
-Service and leadership
+Awards and Prizes
 ======
-* Currently signed in to 43 different slack teams
+* Graduate Research and Creative Scholarship Grant (Fall 2019).
+
