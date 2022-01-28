@@ -27,15 +27,15 @@ January 2022-
 * Graduate Research and Teaching Assistant  
 Department of Computer Science  
 Wayne State University, Detroit, Michigan September 2020- August 2021osharif@cs.odu.edu
-  * Project on cancer classification on nuclei features from histopathological images
+  * Project on cancer classification on nuclei features from histopathological images.
   * Instructing CSC 2201 lab Course where students familiarize with implementing several data structures.  
 * Graduate Assistant  
 Department of Computer Science  
 University of South Dakota  
 August 2018- December 2019
-  * Worked with Parallax Activity Bot 360 (maze solving, parking)
-  * Worked with E-Z Robot named JD. Performed several tasks like face detection, speech recognition, Cognitive Vision
-  * Thesis on Feature Extraction and Matching to analyze lung symmetry for pulmonary abnormality detection
+  * Worked with Parallax Activity Bot 360 (maze solving, parking).
+  * Worked with E-Z Robot named JD. Performed several tasks like face detection, speech recognition, Cognitive Vision.
+  * Thesis on Feature Extraction and Matching to analyze lung symmetry for pulmonary abnormality detection.
 
 Skills
 ======
@@ -47,10 +47,10 @@ Talks
 ======
 * Poster session  
 Understanding X-rays Using Key points  
-2020 Data Science Symposium
+2020 Data Science Symposium.
 * Short presentation  
 Deep Learning on Satellite Imaging: progress and scopes  
-2019 Idea Fest
+2019 Idea Fest.
 
 Teaching
 ======
