@@ -14,7 +14,7 @@ Hello! I am a Ph.D. student in computer science at Old Dominion University. I jo
 My primary research interest lies on Deep Learning with focus on Computer Vision related problems. I am also member of [Computer Science Graduate Society](https://odu.campusgroups.com/csgs/home/) at ODU.  
 *You can contact me at:* osharif@cs.odu.edu  
 
-***Research Interests:*** Deep Learning, Computer VIsion, Natural Language Processing 
+***Research Interests:*** Deep Learning, Computer Vision, Natural Language Processing 
 
 You can look at my resume [here](http://omarsharif786.github.io/files/Resume_OmarSharif(New).pdf).
 
@@ -25,7 +25,7 @@ Relevant courses I have taken so far:
 * Machine Learning and Neural Networks( Fall 2017) 
 * Computer Vision (Fall 2018)
 * Advanced Computer Vision (Fall 2020)
-* Deep Learning (Spring 2021)
+* Deep Learning (Spring 2021).
 
 News
 -----
