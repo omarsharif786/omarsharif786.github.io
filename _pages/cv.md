@@ -13,7 +13,8 @@ Education
   * Ph.D. in Computer Science, [Old Dominion University](https://www.odu.edu/), 2022-  
   * M.S. in Computer Science, [University of South Dakota](https://usd.edu), 2020
   * M.S. in Computer Science, [American International University-Bangladesh](https://www.aiub.edu), 2017
-  * B.S. in Computer Science and Engineering, [American International University-Bangladesh](https://www.aiub.edu), 2015
+  * B.S. in Computer Science and Engineering, [American International University-Bangladesh](https://www.aiub.edu), 2015.  
+
 Work experience
 ======
 * Graduate Teaching and Research Assistant  
@@ -25,7 +26,7 @@ January 2022-
   * Research on Shape detection and Recognition of Colored Handwritten Digit.
 * Graduate Research and Teaching Assistant  
 Department of Computer Science  
-Wayne State University, Detroit, Michigan September 2020- August 2021
+Wayne State University, Detroit, Michigan September 2020- August 2021osharif@cs.odu.edu
   * Project on cancer classification on nuclei features from histopathological images
   * Instructing CSC 2201 lab Course where students familiarize with implementing several data structures.  
 * Graduate Assistant  
@@ -60,6 +61,6 @@ Awards and Prizes
 ======
 * Graduate Research and Creative Scholarship Grant (Fall 2019).
 
-For full [resume](http://omarsharif786.github.io/files/Resume_OmarSharif(New).pdf).
+For full [resume](https://github.com/omarsharif786/omarsharif786.github.io/files/Resume_OmarSharif(New).pdf).
 
 
