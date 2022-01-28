@@ -10,20 +10,16 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Science in Compiter Science and Engineering, American International University-Bangladesh, 2015
-* Master of Science in Compiter Science, American International University-Bangladesh, 2017
-* Master of Science, Computer Science, University of South Dakota, Vermillion, South Dakota 2020
-* Ph.D. in Computer Science,
-Wayne State University, Detroit, Michigan , 2020 - 2021
-* Ph.D. in Computer Science, 
-Old Dominion University, Norfolk, Virginia  2022-
-
+  * Ph.D. in Computer Science, [Old Dominion University](https://www.odu.edu/), 2022-  
+  * M.S. in Computer Science, [University of South Dakota](https://usd.edu), 2020
+  * M.S. in Computer Science, [American International University-Bangladesh](https://www.aiub.edu), 2017
+  * B.S. in Computer Science and Engineering, [American International University-Bangladesh](https://www.aiub.edu), 2015
 Work experience
 ======
 * Graduate Teaching and Research Assistant  
 Department of Computer Science  
 Old Dominion University  
-Advisor : [Dr. Fenjiao Wang](https://fengjiaowang7.github.io/)  
+Advisor : [Dr. Fengjiao Wang](https://fengjiaowang7.github.io/)  
 January 2022-
   * Teaching Assistant of Introduction to Discrete Structure where works include preparing questions and helping with grading
   * Research on Shape detection and Recognition of Colored Handwritten Digit.
@@ -43,7 +39,7 @@ August 2018- December 2019
 Skills
 ======
 **Language Proficiency:** Python, Java, C#, Weka, Matlab, C++  
-**Techologies/API's:** Numpy, Sci-kit-learn, Pandas, Matplotlib, OpenCV, Tensorflow, Keras , Anaconda, Git, Microsoft Office, Windows, Ubuntu, shell scripting. 
+**Technologies/API's:** Numpy, Sci-kit-learn, Pandas, Matplotlib, OpenCV, Tensorflow, Keras , Anaconda, Git, Microsoft Office, Windows, Ubuntu, shell scripting. 
 
 
 Talks
@@ -63,4 +59,7 @@ Teaching
 Awards and Prizes
 ======
 * Graduate Research and Creative Scholarship Grant (Fall 2019).
+
+For full [resume](http://omarsharif786.github.io/files/Resume_OmarSharif(New).pdf).
+
 

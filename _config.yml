@@ -11,7 +11,7 @@ title                    : "Omar Sharif"
 title_separator          : "-"
 name                     : &name "Omar Sharif"
 description              : &description "personal description"
-url                      : "https://omarsharif786.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://omarsharif786.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "omarsharif786/omarsharif786.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Omar Sharif"
-  avatar           : "profile.png"
-  bio              : " @oducs Ph.D. Student at Old Dominion University"
+  avatar           : "dp.jpg"
+  bio              : "Computer Science Ph.D. Student at Old Dominion University"
   location         : "Norfolk, VA 23508"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Xvy2yTQAAAAJ"
-  email            : "oshar002@odu.edu"
+  email            : "osharif@cs.odu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -254,7 +254,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
