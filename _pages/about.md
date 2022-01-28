@@ -25,15 +25,5 @@ Education
 
 Technical Skills  
 -----
-**Language Proficiency:** Python, Java, C#, Weka, Matlab, C++  
-**Techologies/API's:** Numpy, Sci-kit-learn, Pandas, Matplotlib, OpenCV, Tensorflow, Keras , Anaconda, Git, Microsoft Office, Windows, Ubuntu, shell scripting. 
 
-Teaching
-------
-1. (Summer 2021) Introduction to Data Structures(Lab). 
-1. (Spring 2022) CS381 Introduction to Discrete Strutures.
-
-Awards
-------
-Graduate Research and Creative Scholarship Grant (Fall 2019).
 
