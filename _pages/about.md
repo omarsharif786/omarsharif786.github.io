@@ -11,7 +11,7 @@ redirect_from:
 
 
 Hello! I am a Ph.D. student in computer science at Old Dominion University. I joined [WATS (Wang’s Awesome Team of Students)](https://fengjiaowang7.github.io/) in Spring 2022 supervised by Dr. Fengjiao Wang.
-My primary research interest lies on Deep Learning with focus on Computer Vision related problems. I am also member of [Computer Science Graduate Society](https://odu.campusgroups.com/csgs/home/) at ODU.  
+My primary research interest lies in Deep Learning with a focus on Computer Vision related problems. I am also member of [Computer Science Graduate Society](https://odu.campusgroups.com/csgs/home/) at ODU.  
 *You can contact me at:* osharif@cs.odu.edu  
 
 ***Research Interests:*** Deep Learning, Computer Vision, Natural Language Processing 
