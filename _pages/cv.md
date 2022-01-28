@@ -22,7 +22,7 @@ Department of Computer Science
 Old Dominion University  
 Advisor : [Dr. Fengjiao Wang](https://fengjiaowang7.github.io/)  
 January 2022-
-  * Teaching Assistant of Introduction to Discrete Structure where works include preparing questions and helping with grading
+  * Teaching Assistant of Introduction to Discrete Structure where works include preparing questions and helping with grading.
   * Research on Shape detection and Recognition of Colored Handwritten Digit.
 * Graduate Research and Teaching Assistant  
 Department of Computer Science  
