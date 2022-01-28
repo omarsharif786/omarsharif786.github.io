@@ -61,6 +61,6 @@ Awards and Prizes
 ======
 * Graduate Research and Creative Scholarship Grant (Fall 2019).
 
-For full [resume](https://github.com/omarsharif786/omarsharif786.github.io/files/Resume_OmarSharif(New).pdf).
+For full [resume](https://omarsharif786.github.io/files/Resume_OmarSharif(New).pdf).
 
 

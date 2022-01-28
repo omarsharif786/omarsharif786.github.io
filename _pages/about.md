@@ -16,7 +16,7 @@ My primary research interest lies on Deep Learning with focus on Computer Vision
 
 ***Research Interests:*** Deep Learning, Computer Vision, Natural Language Processing 
 
-You can look at my resume [here](http://omarsharif786.github.io/files/Resume_OmarSharif(New).pdf).
+You can look at my resume [here](https://omarsharif786.github.io/files/Resume_OmarSharif(New).pdf).
 
 Courses
 -----
