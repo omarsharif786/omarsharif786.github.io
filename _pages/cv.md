@@ -20,7 +20,7 @@ Work experience
 * Graduate Teaching and Research Assistant  
 Department of Computer Science  
 Old Dominion University  
-Advisor : [Dr. Fengjiao Wang](https://fengjiaowang7.github.io/)  
+Advisor : [Dr. Jing He](https://www.cs.odu.edu/~jhe/)  
 January 2022-
   * Teaching Assistant of Introduction to Discrete Structure where works include preparing questions and helping with grading
   * Research on Shape detection and Recognition of Colored Handwritten Digit
@@ -40,7 +40,7 @@ August 2018- December 2019
 Skills
 ======
 **Language Proficiency:** Python, Java, C#, Weka, Matlab, C++  
-**Technologies/API's:** Numpy, Sci-kit-learn, Pandas, Matplotlib, OpenCV, Tensorflow, Keras , Anaconda, Git, Microsoft Office, Windows, Ubuntu, shell scripting. 
+**Technologies/API's:** Pytorch,Tensorflow, Keras , Numpy, Sci-kit-learn, Pandas, Matplotlib, OpenCV, Anaconda, Git, Microsoft Office, Windows, Ubuntu, shell scripting. 
 
 
 Talks
@@ -56,11 +56,13 @@ Teaching
 ======
  * (Summer 2021) Introduction to Data Structures(Lab) 
  * (Spring 2022) CS381 Introduction to Discrete Strutures.
+ * (Fall 2022 - Spring 2023) CS 251 Problem Solving and Programminb II
+ * (Summer 2023 -) CS 151 Introduction to Programming with JAVA
   
 Awards and Prizes
 ======
 * Graduate Research and Creative Scholarship Grant (Fall 2019).
 
-For full [resume](https://omarsharif786.github.io/files/Resume_OmarSharif(New).pdf).
+For full [resume](https://omarsharif786.github.io/files/omarsharif_resume.pdf).
 
 

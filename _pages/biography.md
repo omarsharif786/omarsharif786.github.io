@@ -13,4 +13,4 @@ My master’s thesis topic at the University of South Dakota was Feature Extract
 I want to see myself working on innovative research projects on my Ph.D. with dedication and passion. Which will ultimately guide me to the opportunities in academia and industries where I can utilize my research scopes to improve the state-of-the-art. I want to contribute with my skill and experience for improving and facilitating the research to the welfare of science and humankind. 
 
 
-For my full CV, see [here](https://omarsharif786.github.io/cv/)
+For my full CV, see [here](https://omarsharif786.github.io/files/OmarSharif_CV_2025.pdf)
