@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I am a Ph.D. student in computer science at Old Dominion University. I am working with Dr. Jing He [(Bioinformatics and Parallel Computing Lab)](https://www.cs.odu.edu/~jhe/).
 My primary research interest lies in Deep Learning with a focus on Computer Vision related problems. I am working on Leveraging advanced Deep Learning approaches to improve blood glucose prediction task based on the time-series continuous glucose monitoring data of diabetic patients. I am also member of [Computer Science Graduate Society](https://odu.campusgroups.com/csgs/home/) at ODU.  
-*You can contact me at:* osharif@cs.odu.edu  
+*You can contact me at:* oshar002@odu.edu  
 
 ***Research Interests:*** Deep Learning, Computer Vision, Time-series Forecasting, Natural Language Processing 
 
