@@ -21,18 +21,21 @@ Work experience
 Department of Computer Science  
 Old Dominion University  
 <!-- Advisor : [Dr. Jing He](https://www.cs.odu.edu/~jhe/)   -->
-January 2022-
+January 2022- December 2025
   * Led 10+ Java/C++ lab sessions per semester for 50+ students, held weekly office hours, and graded 300+ assignments
   with 95% course pass rate.
   * Designed 12+ assignments and 20+ exercises for Java and Discrete Structures courses, used by 200+ students across
   multiple semesters.
   * Developed several deep learning projects on imbalance on tabular data and time-series data, mitigating class imbalance
   and improving glucose prediction accuracy by 2-3%.
+
 <!-- * Graduate Research and Teaching Assistant  
 Department of Computer Science  
 Wayne State University, Detroit, Michigan September 2020- August 2021osharif@cs.odu.edu
   * Project on cancer classification on nuclei features from histopathological images
   * Instructing CSC 2201 lab Course where students familiarize with implementing several data structures -->
+
+  
 * Graduate Assistant  
 Department of Computer Science  
 University of South Dakota  
