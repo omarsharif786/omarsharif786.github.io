@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-  * Ph.D. in Computer Science, [Old Dominion University](https://www.odu.edu/), 2022-  
-  * M.S. in Computer Science, [University of South Dakota](https://usd.edu), 2020
-  * M.S. in Computer Science, [American International University-Bangladesh](https://www.aiub.edu), 2017
+  * Ph.D. in Computer Science, [Old Dominion University](https://www.odu.edu/), 2026  
+  * M.S. in Computer Science, [University of South Dakota](https://usd.edu), 2021
+  <!-- * M.S. in Computer Science, [American International University-Bangladesh](https://www.aiub.edu), 2017 -->
   * B.S. in Computer Science and Engineering, [American International University-Bangladesh](https://www.aiub.edu), 2015.  
 
 Work experience
@@ -20,15 +20,19 @@ Work experience
 * Graduate Teaching and Research Assistant  
 Department of Computer Science  
 Old Dominion University  
-Advisor : [Dr. Jing He](https://www.cs.odu.edu/~jhe/)  
+<!-- Advisor : [Dr. Jing He](https://www.cs.odu.edu/~jhe/)   -->
 January 2022-
-  * Teaching Assistant of Introduction to Discrete Structure where works include preparing questions and helping with grading
-  * Research on Shape detection and Recognition of Colored Handwritten Digit
-* Graduate Research and Teaching Assistant  
+  * Led 10+ Java/C++ lab sessions per semester for 50+ students, held weekly office hours, and graded 300+ assignments
+  with 95% course pass rate.
+  * Designed 12+ assignments and 20+ exercises for Java and Discrete Structures courses, used by 200+ students across
+  multiple semesters.
+  * Developed several deep learning projects on imbalance on tabular data and time-series data, mitigating class imbalance
+  and improving glucose prediction accuracy by 2-3%.
+<!-- * Graduate Research and Teaching Assistant  
 Department of Computer Science  
 Wayne State University, Detroit, Michigan September 2020- August 2021osharif@cs.odu.edu
   * Project on cancer classification on nuclei features from histopathological images
-  * Instructing CSC 2201 lab Course where students familiarize with implementing several data structures
+  * Instructing CSC 2201 lab Course where students familiarize with implementing several data structures -->
 * Graduate Assistant  
 Department of Computer Science  
 University of South Dakota  
@@ -39,8 +43,11 @@ August 2018- December 2019
 
 Skills
 ======
-**Language Proficiency:** Python, Java, C#, Weka, Matlab, C++  
-**Technologies/API's:** Pytorch,Tensorflow, Keras , Numpy, Sci-kit-learn, Pandas, Matplotlib, OpenCV, Anaconda, Git, Microsoft Office, Windows, Ubuntu, shell scripting. 
+**Language Proficiency:** Python, SQL, C/C++, Java, HTML/CSS, Shell scripting, Slurm scripting.
+**Technologies/API's:** Pytorch, Tensorflow, Keras, WandB, Github workflow, Tensorboard, PowerBI, numpy, scikitlearn,
+pandas, OpenCV, matplotlib.
+**Applications:** Machine learning, deep learning, computer vision, Transformer Models, LLMs, Gen AI, Reinforcement
+Learning, NLP, ML libraries, ML Ops, object-oriented programming, data analysis, model evaluation, data visualization.
 
 
 Talks
