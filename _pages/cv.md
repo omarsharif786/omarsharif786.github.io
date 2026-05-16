@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-  * Ph.D. in Computer Science, [Old Dominion University](https://www.odu.edu/), 2026  
+  * M.S. in Computer Science, [Old Dominion University](https://www.odu.edu/), 2026  
   * M.S. in Computer Science, [University of South Dakota](https://usd.edu), 2021
   <!-- * M.S. in Computer Science, [American International University-Bangladesh](https://www.aiub.edu), 2017 -->
   * B.S. in Computer Science and Engineering, [American International University-Bangladesh](https://www.aiub.edu), 2015.  
@@ -35,7 +35,7 @@ Wayne State University, Detroit, Michigan September 2020- August 2021osharif@cs.
   * Project on cancer classification on nuclei features from histopathological images
   * Instructing CSC 2201 lab Course where students familiarize with implementing several data structures -->
 
-  
+
 * Graduate Assistant  
 Department of Computer Science  
 University of South Dakota  
@@ -47,8 +47,10 @@ August 2018- December 2019
 Skills
 ======
 **Language Proficiency:** Python, SQL, C/C++, Java, HTML/CSS, Shell scripting, Slurm scripting.
+
 **Technologies/API's:** Pytorch, Tensorflow, Keras, WandB, Github workflow, Tensorboard, PowerBI, numpy, scikitlearn,
 pandas, OpenCV, matplotlib.
+
 **Applications:** Machine learning, deep learning, computer vision, Transformer Models, LLMs, Gen AI, Reinforcement
 Learning, NLP, ML libraries, ML Ops, object-oriented programming, data analysis, model evaluation, data visualization.
 
